@@ -8,7 +8,6 @@
 
 Te damos la bienvenida a la **plataforma de laboratorios** del curso **Administración de BIG-IP: configuración, alta disponibilidad y troubleshooting**. Aquí aplicarás la configuración, seguridad, operación y diagnóstico de F5 BIG-IP mediante laboratorios guiados y un caso de análisis de alta disponibilidad.
 
-Antes de comenzar, consulta la [guía de preparación del entorno](SETUP_GUIDE.md).
 
 ## Lista de laboratorios
 
